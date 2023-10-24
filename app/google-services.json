@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "489857255400",
+    "project_id": "text-recognition-7f161",
+    "storage_bucket": "text-recognition-7f161.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489857255400:android:15311f21e37b7204e6065d",
+        "android_client_info": {
+          "package_name": "com.fredy.textrecognition"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWGj-f7GLIs5Aa93b_44ZjJELlZ1aUGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
